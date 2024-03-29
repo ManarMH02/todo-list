@@ -8,3 +8,4 @@ it offers: <br>
   Your tasks are automatically saved using LocalStorage.<br>
 -Minimalist Design:<br> 
 a clutter-free interface for seamless task management.<br>
+https://manarmh02.github.io/todo-list/
